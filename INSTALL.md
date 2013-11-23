@@ -25,7 +25,7 @@ Prerequisites
 
         perl -v
 
-3.  PostgreSQL (at least version 9.1)
+3.  PostgreSQL (at least version 9.1.4)
 
     PostgreSQL is required, along with its development libraries. To install
     using packages run the following, replacing 9.x with the latest version.
